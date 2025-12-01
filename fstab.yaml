@@ -3,6 +3,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 mountpoints:
   /:
     url: "https://author-p130360-e1272151.adobeaemcloud.com/bin/franklin.delivery/adobe-rnd/aem-boilerplate-xwalk/main"
@@ -23,3 +24,7 @@ https://drive.google.com/drive/folders/1TTTYyZ7S7BZVUCzmJZYJwoS5DvgU1055?usp=sha
 =======
 https://drive.google.com/drive/folders/1TTTYyZ7S7BZVUCzmJZYJwoS5DvgU1055?ths=true
 >>>>>>> 0ad7ffd (Update Google Drive link to include 'ths=true' parameter)
+=======
+mountpoints:
+  /: https://drive.google.com/drive/folders/1TTTYyZ7S7BZVUCzmJZYJwoS5DvgU1055?ths=true
+>>>>>>> d4b8466 (Update fstab.yaml)

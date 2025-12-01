@@ -26,5 +26,9 @@ https://drive.google.com/drive/folders/1TTTYyZ7S7BZVUCzmJZYJwoS5DvgU1055?ths=tru
 >>>>>>> 0ad7ffd (Update Google Drive link to include 'ths=true' parameter)
 =======
 mountpoints:
+<<<<<<< HEAD
   /: https://drive.google.com/drive/folders/1TTTYyZ7S7BZVUCzmJZYJwoS5DvgU1055?ths=true
 >>>>>>> d4b8466 (Update fstab.yaml)
+=======
+  /: https://drive.google.com/drive/folders/1TTTYyZ7S7BZVUCzmJZYJwoS5DvgU1055
+>>>>>>> 8679446 (Update fstab.yaml)
